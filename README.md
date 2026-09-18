@@ -40,7 +40,7 @@ Day to day, that means a mix of application development, API work, and integrati
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square)](https://github.com/features/actions)
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat-square)](https://prometheus.io/)
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat-square)](https://grafana.com/)
-[![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white&style=flat-square)](https://developers.openai.com/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat-square)](https://developers.openai.com/)
 [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white&style=flat-square)](https://claude.com/product/overview)
 [![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?logo=githubcopilot&logoColor=white&style=flat-square)](https://github.com/features/copilot)
 [![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white&style=flat-square)](https://ai.google.dev/gemini-api/docs)
